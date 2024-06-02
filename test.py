@@ -1,5 +1,4 @@
-name = True
-print(name)
-print(type(name))
-#hello world 
-#"""hellow world"""
+a = int(input("a = "))
+b = int(input("b = "))
+c = (a >= b)
+print(c)
